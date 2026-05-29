@@ -1,0 +1,3 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-dikaro-oauth-verified-jwt-payload.md pamela.dingle@microsoft.com pieter@defakto.security yrosomakho@zscaler.com
