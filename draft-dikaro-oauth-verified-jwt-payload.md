@@ -19,35 +19,43 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "Verified JWT Payload Claim"
+abbrev: "Verified JWT Payload"
+category: std
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-dikaro-oauth-verified-jwt-payload-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+workgroup: "Web Authorization Protocol"
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - Verified
+ - JWT
+ - Claim
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Web Authorization Protocol"
+  type: "Working Group"
+  mail: "oauth@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
+  github: "yaroslavros/verified-jwt-payload"
+  latest: "https://yaroslavros.github.io/verified-jwt-payload/draft-dikaro-oauth-verified-jwt-payload.html"
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Pamela Dingle
+    organization: Microsoft Corporation
+    email: pamela.dingle@microsoft.com
+ -
+    fullname: Pieter Kasselman
+    organization: Defakto Security
+    email: pieter@defakto.security
+ -
+    fullname: Yaroslav Rosomakho
+    organization: Zscaler
+    email: yrosomakho@zscaler.com
+
 
 normative:
 
